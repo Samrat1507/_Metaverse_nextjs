@@ -1,4 +1,4 @@
-
+/* eslint-disable */
 import Head from 'next/head';
 
 import '../styles/globals.css';
